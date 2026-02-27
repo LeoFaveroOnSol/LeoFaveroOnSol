@@ -35,7 +35,7 @@
 
 #### philosophy
 
-> hard work and patience.
+> hard work and patience. 🚀
 
 ---
 
