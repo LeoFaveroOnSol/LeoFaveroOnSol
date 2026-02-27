@@ -7,13 +7,11 @@
 [![Twitter](https://img.shields.io/badge/@leofaveroo-000?style=flat&logo=x&logoColor=white)](https://x.com/leofaveroo)
 [![Telegram](https://img.shields.io/badge/@leofaveroo-000?style=flat&logo=telegram&logoColor=white)](https://t.me/leofaveroo)
 
-</div>
-
 ---
 
 #### stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
@@ -28,25 +26,17 @@
 
 #### what i build
 
+</div>
+
 - **xscan** — kol scanner & token analytics on solana  
 - **clashai** — ai vs ai prediction battle arena  
 - **wallet tracker** — real-time whale alerts via helius webhooks  
 - **telegram & discord bots** — token detection, pnl cards, leaderboards  
 
+<div align="center">
+
 #### philosophy
 
 > hard work and patience. 🚀
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoFaveroOnSol&bg_color=000000&color=888888&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="620" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LeoFaveroOnSol&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=fff&sideLabels=888&currStreakNum=fff&sideNums=888&dates=555" width="420" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoFaveroOnSol&show_icons=true&hide_border=true&bg_color=00000000&text_color=888&title_color=fff&icon_color=58a6ff&hide_title=true&hide_rank=true" width="420" />
 
 </div>
