@@ -41,7 +41,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeoFaveroOnSol&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=4" width="620" />
+<img src="https://github-profile-trophy.vercel.app/?username=LeoFaveroOnSol&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=4" width="620" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoFaveroOnSol&bg_color=000000&color=888888&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="620" />
 
 <br/><br/>
 
