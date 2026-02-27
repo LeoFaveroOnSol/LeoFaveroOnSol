@@ -41,15 +41,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeoFaveroOnSol&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=4" width="620" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoFaveroOnSol&bg_color=000000&color=888888&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="620" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeoFaveroOnSol&show_icons=true&hide_border=true&bg_color=00000000&text_color=888&title_color=fff&icon_color=58a6ff&hide_title=true&hide_rank=true" width="420" />
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LeoFaveroOnSol&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=fff&sideLabels=888&currStreakNum=fff&sideNums=888&dates=555" width="420" />
 
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoFaveroOnSol&show_icons=true&hide_border=true&bg_color=00000000&text_color=888&title_color=fff&icon_color=58a6ff&hide_title=true&hide_rank=true" width="420" />
 
+</div>
